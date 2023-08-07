@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVP Architecture</string>
+    <string name="text_login">Đăng nhập</string>
+    <string name="hint_username">Tên đăng nhập</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="text_login_failed">Sai tên đăng nhập hoặc mật khẩu. Vui lòng kiểm tra lại!</string>
+    <string name="text_login_success">Đăng Nhập Thành Công</string>
+    <string name="text_welcome">Xin chào</string>
+    <string name="text_input_invalid">Tên đăng nhập và mật khẩu không được bỏ trống.</string>
+</resources>
